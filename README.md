@@ -11,7 +11,7 @@
       font-family: 'Segoe UI', sans-serif;
       color: #fff;
       text-align: center;
-      background: url('https://images.unsplash.com/photo-1526045612212-70caf35c14df?auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
+      background: url('https://photos.app.goo.gl/D7j9hHmrbi9X9LBe7') no-repeat center center/cover;
       height: 100vh;
       display: flex;
       flex-direction: column;
